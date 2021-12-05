@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning Consensys developer bootcamp
 - 💞️ I’m looking to collaborate on blockchain, crypto, nfts, etc
-- 📫 How to reach me: coming soon
+- 📫 How to reach me: Twitter @ryvince_eth
 
 <!---
 ryvince/ryvince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
